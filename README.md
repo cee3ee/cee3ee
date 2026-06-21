@@ -17,7 +17,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=derdevil1232&theme=github-compact)
 
 ### 🐛 Bug Bounty Stats
-![Vulnerabilities Found](https://img.shields.io/badge/Vulnerabilities%20Found-1-critical?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Vulnerabilities Found](https://img.shields.io/badge/Vulnerabilities%20Found-2-critical?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Bug Bounties](https://img.shields.io/badge/Bug%20Bounties-In%20Progress-orange?style=for-the-badge&logo=hackerone&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=derdevil1232&icon=0&color=0)](https://visitcount.itsvg.in)
