@@ -18,6 +18,7 @@
 
 ### 🐛 Bug Bounty Stats
 [![whoamilab](https://lab.whoamitang.com/badge/cee3ee.png)](https://lab.whoamitang.com/user/cee3ee)
+
 ![Vulnerabilities Found](https://img.shields.io/badge/Vulnerabilities%20Found-2-critical?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Bug Bounties](https://img.shields.io/badge/Bug%20Bounties-In%20Progress-orange?style=for-the-badge&logo=hackerone&logoColor=white)
 
